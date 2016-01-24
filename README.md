@@ -1,16 +1,11 @@
 # ramen
 
-A course that helps you become a software engineer.
+So, you want to venture into software engineering. *ramen* will walk you through the first few steps to becoming a software engineer and hopefully and effective one.
 
-# Levels
+I have had questions of my own when I started. I wanted to know how to start. What to learn and what not to. There is a plethora of information available online. What is essential? What is not? How do I extract the signal from noise?
 
-The course is organised into levels. 
-* *Level 1* denotes subject matter that is essential no matter what kind of domains you work on. This would be useful if you are a systems administrator, a frontend developer, a mobile application developer or a backend developer. As such, there are no categories in this level.
-* *Level 2* denotes subject matter that is slightly oriented towards a particular kind of development with a lot of overlap amongst each other. Basics of databases, caches, platforms are covered.
-* *Level 3* covers subject matter totally aligned with a particular form of development like web applications, android applications, distributed task management, data analytics etc.
+I was fortunate enough to have people who were willing to take me into their tutelage. They showed me a path and pointed me in directions that helped me learn a lot of things in a very short amount of time. Everyone can't have access to the kind of mentors I did.
 
-# Content
+People often ask me how to begin. I can sense the same trepidation I had at the time. This course is a response to those questions. *ramen* would guide you through the information maze that is the internet and cherry-pick stuff that I deem important knowledge to a software engineer.
 
-The courses offer a small introductory lesson after which it provides a set of further reading. For every level, there is an introductory lesson followed by a set of lessons marked as 'essentials'. These lessons contain content that is recommended reading at this level. Other than 'essentials', there is course content further classified into categories. These categories are optional. You can take these lessons if you are interested in that particular category.
-
-The course content will rarely center around a particular framework or technology. It will introduce a few of them with a few points that may help you make a choice.
+Let's [get started][https://github.com/schatten/ramen/start_here.md], shall we?
