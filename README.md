@@ -8,4 +8,4 @@ I was fortunate enough to have people who were willing to take me into their tut
 
 People often ask me how to begin. I can sense the same trepidation I had at the time. This course is a response to those questions. *ramen* would guide you through the information maze that is the internet and cherry-pick stuff that I deem important knowledge to a software engineer.
 
-Let's [get started](https://github.com/schatten/ramen/start_here.md), shall we?
+Let's [get started](https://github.com/schatten/ramen/blob/master/start_here.md), shall we?
